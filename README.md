@@ -222,4 +222,4 @@ fun App() {
 ```
 
 Thanks, for using it.
-Don't forget to give the star.
+Don't forget to give a star.
